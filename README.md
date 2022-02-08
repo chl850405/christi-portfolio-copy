@@ -1,70 +1,97 @@
-# Getting Started with Create React App
+# Christi's Portfolio
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Description
 
-## Available Scripts
+A React website featuring six of my projects, an about me section resume and a contact page.
 
-In the project directory, you can run:
+## Table of Contents
 
-### `npm start`
+- [Installation](#installation)
+- [Usage](#usage)
+- [License](#license)
+- [Contributing](#contributing)
+- [Tests](#tests)
+- [Questions](#questions)
 
+## Installation
+Git clone then in the project directory, you can run `npm start`,`npm test`,`npm run build`
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Usage
+My Portfolio 
 
-### `npm test`
+Github URL 
+https://github.com/chl850405/christi-portfolio.git 
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+![E-Commerce](./src/assets/gif/ecommerce.gif)
 
-### `npm run build`
+The back end created for the E-Commerce site.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+https://github.com/chl850405/e-commerce.git
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+View video to see MySQL walk through via [Screencastify](https://drive.google.com/file/d/1Em_LQH1I-NgwqmKpxgeBkXy71hx4clSp/view)<br>
+View video to walk through of the API routes. [Screencastify](https://drive.google.com/file/d/19HxHUsCz4v2iva7JGcpbhywtCO3b4wU0/view)<br>
+View video to see Insomnia walk through via [Screencastify](https://drive.google.com/file/d/1X3CGbwAnfSOz93SGSwwQJkQPpCrbXOEH/view)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+![Budget Tracker](./src/assets/images/budget.png)
 
-### `npm run eject`
+Keep track of your budget online or offline.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Deployed: https://budgettr4k3r.herokuapp.com/
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Github: https://github.com/chl850405/budget-tracker.git
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+![Note Taker](./src/assets/images/notes.png)
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+Write and save notes.
 
-## Learn More
+Deployed: https://n0t3-t4k3r.herokuapp.com/notes
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Github: https://github.com/chl850405/note-taker.git
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+![Password Generator](./src/assets/images/password-generator.png)
 
-### Code Splitting
+Deployed: https://github.com/chl850405/Password-Generator.git
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+Github: https://chl850405.github.io/Password-Generator/
 
-### Analyzing the Bundle Size
+![Top Score](./src/assets/images/top-score.png)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+Build a NBA fantasy team.
 
-### Making a Progressive Web App
+Deployed: https://chl850405.github.io/top-score
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+Github: https://github.com/chl850405/top-score.git
 
-### Advanced Configuration
+![Real Time Weather](./src/assets/images/weather.png)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+Search a city's current weather and five day forecast.
 
-### Deployment
+Deployed: https://chl850405.github.io/real-time-weather/
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+Github: https://github.com/chl850405/real-time-weather.git
 
-### `npm run build` fails to minify
+![Plague Docs](./src/assets/images/pd.png)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Plague Docs allows you to keep your COVID vaccine card conveniently store in your virtual wallet.
+
+Live URL: https://plague-docs.herokuapp.com/
+
+GitHub Repository: https://github.com/chl850405/plague-docs-copy
+
+## License
+
+This project does not have a license.
+
+## Contributing
+
+Contributors should read the installation section.
+
+## Tests
+
+There are no tests for this project.
+
+## Questions
+
+If you have any questions about this projects, please contact me directly at christimarchetti@gmail.com. You can view more of my projects at https://github.com/chl850405.
