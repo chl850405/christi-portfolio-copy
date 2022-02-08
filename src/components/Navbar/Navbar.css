@@ -1,0 +1,7 @@
+.navbar li{
+  margin: 7px 7px;
+  color: black;
+  position: sticky;
+  display: inline;
+  list-style:none ;
+}

@@ -1,0 +1,87 @@
+.projects {
+  padding: 4px;
+  background-color: black;
+  position: sticky;
+}
+
+h1 {
+  text-align: center;
+}
+
+.projects__container {
+  display: flex;
+  flex-flow: column;
+  align-items: center;
+  max-width: 1200px;
+  width: 90%;
+  margin: 0 auto;
+}
+
+.projects__wrapper {
+  position: relative;
+  margin: 50px 0 45px;
+}
+
+.projects__items {
+  position: center;
+  margin-bottom: 24px;
+}
+
+.projects__item {
+  display: block;
+  padding-bottom: 1rem;
+  margin-bottom: 1rem;
+  border-radius: 5px;
+  box-shadow: 6px 6px #eeee;
+  border: solid #cccc;
+}
+
+.item_row {
+  display: flex;
+  flex-flow: row;
+}
+
+.projects__item__pic-wrap {
+  position: relative;
+  padding-top: 2%;
+}
+
+.pic_label_bottom_right {
+  position: absolute;
+  bottom: 0px;
+  right: 0px;
+  padding: 5px 10px;
+  max-width: 90%;
+  font-size: 18px;
+  font-weight: bold;
+  color: whitesmoke;
+  background-color: turquoise;
+  box-sizing: border-box;
+}
+
+.projects__item__img {
+  position: relative;
+  max-height: 400px;
+  max-width: 600px;
+  border-radius: 5px;
+}
+
+.projects__item__img:hover,
+.github__icon__img:hover {
+  opacity: 0.3;
+}
+
+.projects__item__info {
+  padding: 20px 30px 30px;
+}
+
+.projects__item__text {
+  color: black;
+  font-size: 20px;
+  line-height: 28px;
+}
+
+.github__icon__img {
+  max-height: 60px;
+  align-self: center;
+}

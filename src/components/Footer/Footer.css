@@ -1,0 +1,23 @@
+.footer-container {
+  background-color: turquoise;
+  position:fixed;
+  padding: 10px 10px 0px;
+  bottom:0;
+  width: 100%;
+  display: flex;
+  align-self: center;
+}
+
+.gh,
+.li,
+.sof {
+  padding: 10px;
+  max-height: 40px;
+  align-self: center;
+}
+
+.gh:hover,
+.li:hover,
+.sof:hover{
+  opacity: 0.5;
+}
