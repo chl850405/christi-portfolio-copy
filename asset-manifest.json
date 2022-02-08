@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/christi-portfolio-copy/static/css/main.e3352f5e.css",
+    "main.js": "/christi-portfolio-copy/static/js/main.726ac1cf.js",
+    "static/js/787.0d00748a.chunk.js": "/christi-portfolio-copy/static/js/787.0d00748a.chunk.js",
+    "static/media/top-score.png": "/christi-portfolio-copy/static/media/top-score.501706fc7304e727449d.png",
+    "static/media/head-shot.JPG": "/christi-portfolio-copy/static/media/head-shot.6b8276a6c45e31aa6db7.JPG",
+    "static/media/ecommerce.gif": "/christi-portfolio-copy/static/media/ecommerce.437ce5630d2ff14a82f1.gif",
+    "static/media/notes.png": "/christi-portfolio-copy/static/media/notes.31be07c3d4b71be9d86b.png",
+    "static/media/header-img.jpg": "/christi-portfolio-copy/static/media/header-img.55687270c9b91209c786.jpg",
+    "static/media/weather.png": "/christi-portfolio-copy/static/media/weather.4a26ca1e46f3cb4c9375.png",
+    "static/media/pd.png": "/christi-portfolio-copy/static/media/pd.e132b2de4c2b76fa6dbc.png",
+    "static/media/Christi Marchetti.pdf": "/christi-portfolio-copy/static/media/Christi Marchetti.e650bcb00419e2785e85.pdf",
+    "static/media/budget.png": "/christi-portfolio-copy/static/media/budget.b0245322e9806a342561.png",
+    "static/media/password-generator.png": "/christi-portfolio-copy/static/media/password-generator.aa25cbf89939def02f6b.png",
+    "static/media/linkedin.png": "/christi-portfolio-copy/static/media/linkedin.5fd5739bb2a827491b0c.png",
+    "index.html": "/christi-portfolio-copy/index.html",
+    "main.e3352f5e.css.map": "/christi-portfolio-copy/static/css/main.e3352f5e.css.map",
+    "main.726ac1cf.js.map": "/christi-portfolio-copy/static/js/main.726ac1cf.js.map",
+    "787.0d00748a.chunk.js.map": "/christi-portfolio-copy/static/js/787.0d00748a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e3352f5e.css",
+    "static/js/main.726ac1cf.js"
+  ]
+}
