@@ -25,6 +25,18 @@
   max-width: 1000px;
 }
 
+.project_items{
+
+  width: 50%; 
+}
+
+.project_item{
+  float: left; 
+  margin: 80px;
+  width: 35%;
+  
+}
+
 .bio {
   float: right;
 }
