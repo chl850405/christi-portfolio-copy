@@ -2,7 +2,7 @@
 
 ## Description
 
-A React website featuring six of my projects, an about me section resume and a contact page.
+A React website featuring seven of my projects, an about me section resume and a contact page.
 
 ## Table of Contents
 
