@@ -9,7 +9,6 @@ function Resume() {
       <p>Resume
 Proficiencies
 <br/>
-Front End,
 Git,
 HTML,
 Handlebars,
